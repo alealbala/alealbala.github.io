@@ -11,7 +11,7 @@ a {
 }
 
 a:visited {
-  color: fuchsia;
+  color: #4FBAFD
 }
 
 h1,h2 {
@@ -20,7 +20,7 @@ h1,h2 {
 
 h1 {
   font-family: 'Oxygen', sans-serif;
-  font-size: 25px;
+  font-size: 20px;
   color: #333333;
   margin: 2px;
 }
@@ -28,6 +28,55 @@ h1 {
 p { 
   font-family: 'Abel', sans-serif;
   font-size: 15px;
-  color: #6722bc;
+  color: #3F2E03;
   margin: 0 0 8px 0; 
 }
+
+header {
+  padding: 100px;
+}
+
+#what-i-do {
+  background-color: #FFEEF0;
+  overflow: hidden;
+}
+
+#who-am-i {
+  background-color: #FFFF94;
+  overflow: hidden;
+}
+
+article {
+  height: 130px;
+  width: 290px;
+  float: left;
+  background-color: #FFD1A5;
+  margin: 5px;
+  border-radius: 3px;
+} 
+
+.container {
+  width: 900px;
+  margin: 0 auto;
+}
+
+ul {
+  list-style-type: none;
+}
+
+nav {
+  background-color: white;
+  margin-bottom: 30px;
+  padding-top: 20px;
+  padding-bottom: 25px;
+}
+
+.round-button {
+  border-radius: 8px;
+  border: 2px solid black;
+  color: black;
+  background-color: white;
+  padding: 30px;
+}
+
+
