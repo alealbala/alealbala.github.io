@@ -42,7 +42,7 @@ header {
 }
 
 #who-am-i {
-  background-color: #F5F5DC;
+  background-color: #FFF8DC;
   overflow: hidden;
 }
 #how-i-work{
@@ -54,7 +54,7 @@ article {
   height: 130px;
   width: 290px;
   float: left;
-  background-color: #F5F5DC;
+  background-color: #FFF8DC;
   margin: 5px;
   border-radius: 3px;
 } 
