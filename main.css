@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  font-family: 'Lucida Sans Unicode', sans-serif;
+  font-family: 'Francois One', sans-serif;
   background-image: url(http://41.media.tumblr.com/43b9a54f812fb68d6eb7301c4e5e5e5d/tumblr_nvbx52yt9K1slhhf0o1_1280.jpg);
   background-size: cover;
 }
@@ -26,7 +26,7 @@ h1 {
 }
 
 p { 
-  font-family: 'Alegreya', serif;
+  font-family: 'Arimo', sans-serif;
   font-size: 18px;
   color: #3F2E03;
   margin: 0 0 8px 0; 
@@ -86,11 +86,15 @@ nav {
 .one-third {
   width: 300px;
   float: left;
+  text-align: justify;
+  
 }
 
 .two-thirds {
-  width:600px;
+  width: 580px;
   float: left;
+  text-align: justify;
+  margin-right: 20px ;
 }
 
 
