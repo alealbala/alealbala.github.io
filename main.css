@@ -76,7 +76,7 @@ nav {
   padding-bottom: 25px;
 }
 
-.round-button {
+.round-button{
   border-radius: 8px;
   border: 2px solid black;
   color: black;
@@ -97,6 +97,68 @@ nav {
   text-align: justify;
   margin-right: 20px ;
 }
+
+#pricing-box {
+  background-color: white;
+  margin: 0 auto;
+}
+
+#pricing-table {
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+#button-box {
+  text-align: center;
+  height: 80px;
+}
+
+#pricing-table ul {
+  list-style-type: square;
+  text-align: center;
+}
+
+.pricing-button {
+    background-color: lightblue;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+tr:nth-child(4) {
+    font-size: 48px;
+    text-align: center;
+}
+
+tr:nth-child(5) a {
+    color: white;
+    text-decoration: none;
+}
+
+tr:nth-child(1) {
+    background-color: #FAEBD7;
+    height: 60px;
+    font-size: 20px;
+}
+
+tr:nth-child(2) {
+    background-color: #cccccc;
+    height: 100px;
+}
+tr:nth-child(3) {
+    background-color: #ececec;
+    height: 100px;
+}
+
+#pricing-box h1 {
+  padding-top: 30px;
+  font-size: 30px;
+}
+
+
 
 
 
