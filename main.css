@@ -22,7 +22,6 @@ h1 {
   font-family: 'Oxygen', sans-serif;
   font-size: 20px;
   color: black;
-  margin: 2px;
 }
 
 p { 
@@ -39,7 +38,6 @@ header {
 #what-i-do {
   background-color: #F8F8F8;
   overflow: hidden;
-  margin: 5px;
 }
 
 #who-am-i {
@@ -63,7 +61,7 @@ article {
 
 .container {
   width: 900px;
-  margin: 8px;
+  margin: 0 auto;
 }
 
 ul {
