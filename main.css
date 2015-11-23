@@ -11,7 +11,7 @@ a {
 }
 
 a:visited {
-  color: #4FBAFD
+  color: #4FBAFD;
 }
 
 h1,h2 {
@@ -55,7 +55,7 @@ article {
   height: 130px;
   width: 290px;
   float: left;
-  background-color: #FFF8DC;
+  background-color: #FFCC00;
   margin: 5px;
   border-radius: 3px;
 } 
