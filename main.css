@@ -51,6 +51,7 @@ article {
   width: 290px;
   float: left;
   background-color: #FFCC66;
+  background: linear-gradient (#FFF975, #FFC35A);
   margin: 5px;
   border-radius: 3px;
 } 
@@ -66,7 +67,6 @@ ul {
 
 nav {
   background-color: white;
-  background: linear-gradient(#FFE114, #FF844A);
   margin-bottom: 20px;
   padding-top: 20px;
   padding-bottom: 30px;
