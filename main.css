@@ -61,7 +61,7 @@ article {
 } 
 
 .container {
-  width: 900px;
+  width: 800px;
   margin: 0 auto;
 }
 
@@ -71,9 +71,9 @@ ul {
 
 nav {
   background-color: white;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
   padding-top: 20px;
-  padding-bottom: 25px;
+  padding-bottom: 30px;
 }
 
 .round-button{
