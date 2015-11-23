@@ -39,6 +39,7 @@ header {
 #what-i-do {
   background-color: #F8F8F8;
   overflow: hidden;
+  margin: 5px;
 }
 
 #who-am-i {
