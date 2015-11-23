@@ -66,6 +66,7 @@ ul {
 
 nav {
   background-color: white;
+  background: linear-gradient(#FFE114, #FF844A);
   margin-bottom: 20px;
   padding-top: 20px;
   padding-bottom: 30px;
@@ -153,9 +154,7 @@ tr:nth-child(3) {
   font-size: 30px;
 }
 
-#grad {
-  background: -webkit-linear-gradient(#FFE114, #FF844A);
-}
+
 
 
 
