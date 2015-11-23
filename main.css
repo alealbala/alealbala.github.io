@@ -50,8 +50,8 @@ article {
   height: 130px;
   width: 290px;
   float: left;
-  background-color: #FFCC66;
   background: linear-gradient (#FFF975, #FFC35A);
+  background-color: #FFCC66;
   margin: 5px;
   border-radius: 3px;
 } 
