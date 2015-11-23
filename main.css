@@ -37,6 +37,7 @@ header {
 }
 
 #what-i-do {
+  background: linear-gradient (#FFF975, #FFC35A);
   background-color: #F8F8F8;
   overflow: hidden;
 }
@@ -50,7 +51,6 @@ article {
   height: 130px;
   width: 290px;
   float: left;
-  background: linear-gradient (#FFF975, #FFC35A);
   background-color: #FFCC66;
   margin: 5px;
   border-radius: 3px;
