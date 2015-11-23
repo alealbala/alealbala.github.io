@@ -153,6 +153,9 @@ tr:nth-child(3) {
   font-size: 30px;
 }
 
+#grad {
+  background: -webkit-linear-gradient(#FFE114, #FF844A);
+}
 
 
 
