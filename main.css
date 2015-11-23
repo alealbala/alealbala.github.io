@@ -3,7 +3,6 @@ body {
   font-family: 'Francois One', sans-serif;
   background-image: url(http://36.media.tumblr.com/f43d6e1f9afefeef858836aafe7a1da7/tumblr_nr5q8gfnyA1slhhf0o1_1280.jpg);
   background-size: cover;
-  background: linear-gradient (#FFF975, #FFC35A);
 }
 
 a {
@@ -38,7 +37,7 @@ header {
 }
 
 #what-i-do {
-  background: linear-gradient (#FFF975, #FFC35A);
+  background: -webkit-linear-gradient (#FFF975, #FFC35A);
   background-color: #F8F8F8;
   overflow: hidden;
 }
