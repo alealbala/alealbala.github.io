@@ -41,13 +41,6 @@ header {
   overflow: hidden;
 }
 
-#who-am-i {
-  background-color: white;
-  overflow: hidden;
-  margin-bottom: 25px;
-  padding-top: 25px;
-  padding-bottom: 30px;
-
 #how-i-work {
 background: url(http://41.media.tumblr.com/97e3b4644aa1dda650c3728eea386520/tumblr_nwenywscXB1slhhf0o1_1280.jpg);
 padding: 50px;
@@ -73,8 +66,8 @@ ul {
 
 nav {
   background-color: white;
-  margin-bottom: 25px;
-  padding-top: 25px;
+  margin-bottom: 23px;
+  padding-top: 23px;
   padding-bottom: 30px;
 }
 
