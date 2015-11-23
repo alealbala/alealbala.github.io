@@ -37,7 +37,6 @@ header {
 }
 
 #what-i-do {
-  background: -webkit-linear-gradient (#FFF975, #FFC35A);
   background-color: #F8F8F8;
   overflow: hidden;
 }
@@ -67,6 +66,7 @@ ul {
 
 nav {
   background-color: white;
+  background: -webkit-linear-gradient (#FFF975, #FFC35A);
   margin-bottom: 20px;
   padding-top: 20px;
   padding-bottom: 30px;
