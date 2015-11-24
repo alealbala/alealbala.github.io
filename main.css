@@ -161,6 +161,10 @@ tr:nth-child(3) {
   font-size: 30px;
 }
 
+#my-resume iframe {
+  width: 800px;
+  height: 800px;
+}
 
 
 
