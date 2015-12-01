@@ -12,9 +12,15 @@
       "status = 1, height = 800, width = 1200, resizable = 0" )
       }
     </script>
+
+<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.0.0/jquery.magnific-popup.min.js">
+</script>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.0.0/magnific-popup.min.css" rel="stylesheet">
   </head>
   <body>
     <header>
+    
       <nav>
         <a href="index.html">Home</a>
         <a href="about-me.html">About Me</a>
@@ -22,7 +28,8 @@
         <a href="portfolio.html">Portfolio</a>
         <input type="button" onClick="myPopup()" value="Pricing">
       </nav>
-    <img src="http://i.imgur.com/hkXN4TO.png" alt="alexa-albala-logo" width="200px">
+        <a class="test-popup-link" href="path-to-image.jpg">
+    <img src="http://i.imgur.com/hkXN4TO.png" alt="alexa-albala-logo" width="200px"></a>
     <h1>Advertising Student</h1>
     <p>Our website is under construction right now.Please stand by!</p>
     </header>
@@ -54,5 +61,10 @@
      <a href="https://twitter.com/Albalaale"><i class="fa fa-twitter-square"></i></a>
      <a href="https://www.linkedin.com/pub/alexa-albala/b5/873/a47"><i class="fa fa-linkedin-square"></i></a>
     </footer>
+    
+    <script>$('.test-popup-link').magnificPopup({
+  type: 'image'
+  // other options
+});</script>
   </body>
 </html>
