@@ -49,6 +49,10 @@ background: url(http://41.media.tumblr.com/97e3b4644aa1dda650c3728eea386520/tumb
 padding: 50px;
 }
 
+#who-am-i p {
+  	color: #FFEBCD;
+}
+
 article {
   height: 130px;
   width: 290px;
