@@ -14,8 +14,8 @@ a:visited {
   color: #4FBAFD;
 }
 
-h1 {
-  color: black;
+header h1 {
+  color: white;
 }
 
 h2 {
@@ -24,7 +24,7 @@ h2 {
 
 h1 {
   font-family: 'Signika', sans-serif;
-  font-size: 30px;
+  font-size: 20px;
   margin: 2px;
 }
 
