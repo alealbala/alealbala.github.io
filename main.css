@@ -2,8 +2,10 @@ body {
   text-align: center;
   font-family: 'Francois One', sans-serif;
   background-image: url(http://i.imgur.com/RiPRZuB.jpg);
+  background-position-x: -3px;
   background-size: cover;
   width: 100%;
+  margin: 0;
 }
 
 a {
