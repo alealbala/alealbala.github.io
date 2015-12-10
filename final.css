@@ -1,6 +1,6 @@
 .nav a {
-  color: #5a5a5a;
-  font-size: 11px;
+  color: #7b7b7b;
+  font-size: 12px;
   font-weight: bold;
   padding: 14px 10px;
   text-transform: uppercase;
@@ -23,15 +23,15 @@
 }
 
 .jumbotron h1 {
-  color: #fff;
-  font-size: 48px;  
-  font-family: 'Shift', sans-serif;
+  color: #cccccc;
+  font-size: 50px;  
+  font-family: Helvetica, sans-serif;
   font-weight: bold;
 }
 
 .jumbotron p {
-  font-size: 20px;
-  color: #fff;
+  font-size: 22px;
+  color: #cccccc;
 }
 
 .learn-more {
@@ -39,13 +39,13 @@
 }
 
 .learn-more h3 {
-  font-family: 'Shift', sans-serif;
-  font-size: 18px;
+  font-family: Helvetica, sans-serif;
+  font-size: 20px;
   font-weight: bold;
 }
 
 .learn-more a {
-  color: #00b0ff;
+  color: #000000;
 }
 
 .neighborhood-guides{
@@ -54,12 +54,12 @@
 }
 
 .neighborhood-guides h2{
-    color: #393c3d;
-    font-size: 24px;
+    color: #454545;
+    font-size: 22px;
 
 }
 
 .neighborhood-guides p{
-     font-size: 15px;
+     font-size: 10px;
     margin-bottom: 13px;    
 }
