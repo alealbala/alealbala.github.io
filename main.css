@@ -58,6 +58,10 @@ padding: 50px;
   	color: #F8F8FF;
 }
 
+footer {
+  margin-bottom: 15px;
+}
+
 article {
   height: 130px;
   width: 290px;
