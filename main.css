@@ -176,5 +176,9 @@ tr:nth-child(3) {
   height: 800px;
 }
 
+#my-resume h2 {
+  margin-bottom:15px;
+}
+
 
 
